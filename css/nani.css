@@ -1,0 +1,71 @@
+*{
+    padding: 0;
+    border: 0;
+    margin: 0;
+    box-sizing:border-box;
+}
+body{
+    background-color: pink;
+}
+.c{
+    font-size: 60px;
+    align-items: center;
+    text-align: center;
+}
+.k{
+    text-align: center;
+}
+.g{
+    font-size: 40px;
+    padding-left: 100px;
+    padding-top: 40px;
+}
+.f{
+    font-size: 40px;
+    padding-left: 100px;
+    padding-top: 20px;
+}
+.e{
+    font-size: 40px;
+    padding-left: 100px;
+    padding-top: 40px;
+
+}
+.h{
+    font-size: 40px;
+    padding-left: 100px;
+    padding-top: 20px;
+
+}
+.d{
+    font-size: 40px;
+    padding-left: 100px;
+    padding-top: 20px;
+
+
+}
+.z{
+    font-size: 20px;
+    padding-left: 100px;
+    padding-top: 20px;
+
+}
+form{
+    
+    height: 350px;
+    position: absolute;
+    padding-left: 1000px;
+    top: 200px;
+    box-sizing: 25px;
+    padding-top: 50px;
+    font-size: 30px;
+    
+}
+.uy{
+    font-size: 40px;
+    padding-left: 20px;
+    top: 30px;
+}
+.uy:hover{
+    color: red;
+}
